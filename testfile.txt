@@ -1,5 +1,7 @@
-Hi
 
 now viable outcome earlier viable product
 every sprint produces viable outcome
 provide value in small increments
+
+provide speed and quality -> automation & tools--> sonarqube , ci/cd
+
