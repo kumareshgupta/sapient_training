@@ -5,3 +5,59 @@ provide value in small increments
 
 provide speed and quality -> automation & tools--> sonarqube , ci/cd
 
+I Shaped --> T Shaped ---> Comb Shaped Engineers (Cross-Dispiline Competency)
+
+Quality Engineering -->
+BDD
+TDD /ATDD - Automation Testing
+
+Engineering -->
+  Focusses on 12 factor app
+  Adoption of Microservices and APIs
+  Coding Standards
+  Infra as code, Doc as Code, Config as Code
+  
+  Sprint 1 to 3 - a lot of issues integration 
+  Sprint 4 values will added , delivered faster
+  
+  how to increase velocity in sprint?
+  most of the subtasks are done in initial sprints and its speeds up later sprints (app sprint 4 onwards)
+  
+  In a nutshell : Business + People + Mindset + Technology + Processes
+  
+  Output to Outcomes
+    Features over fancy
+    E2E integration from day1
+  
+  Focus on Microfeatures
+  Microfeature - a small feature
+  
+Efficiency  
+  Identify & Optimize Overheads (tech & non-tech)
+  Eliminate Wase - Use the Waste Snake
+  Cont improvement
+
+
+Soft Dev Mana 
+PO / BA
+Sof Dev Eng 3
+SDE 2
+SDE1
+
+Agile not Fragile 
+
+Cohesive Teams 
+  help each other to succedd over individual deliveries
+  
+
+
+
+
+
+
+
+
+
+
+
+
