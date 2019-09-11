@@ -5,7 +5,7 @@ Cloud AWS
     extent (cucumber, selenium) 
   2. ui + mock  - jenkins
     light house, JEST ,jMeter
-  3. db (pord + dev )
+  3. DB (prod )
 
 4. React - Redux
 
