@@ -7,6 +7,8 @@ Cloud AWS
     light house, JEST ,jMeter
   3. DB (prod )
 
+When the build fails send email
+
 4. React - Redux
 
 5. Microservice with kafka  (kibana + zipkin)
