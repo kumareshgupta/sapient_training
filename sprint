@@ -1,5 +1,16 @@
 Sprint 4
-cloud aws
-1. app
-2. ui + mock
-3. db (pord + dev )
+Cloud AWS
+  1. app - jenkins
+    jmeter, sonar, jenkins report
+    extent (cucumber, selenium) 
+  2. ui + mock  - jenkins
+    light house, JEST ,jMeter
+  3. db (pord + dev )
+
+4. React - Redux
+
+5. Microservice with kafka  (kibana + zipkin)
+
+6. Hystrix
+
+/user/reports -> cp s3
