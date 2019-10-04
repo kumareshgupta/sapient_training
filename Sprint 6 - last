@@ -1,7 +1,7 @@
 intro
 us
 arch
-wht new
+wht new - kafka, elk, redis, mongo clusters, 6 millons record generated
 reports
   jMeter
   Sonar
@@ -13,3 +13,5 @@ user-stories covered
 280
 282
 385
+
+userid/password - storing in ??
